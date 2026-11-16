@@ -1,9 +1,10 @@
 <p align="center">
-  <a href="https://opencode.ai">
+  <a href="https://researchcode.io">
     <picture>
       <source srcset="packages/console/app/src/asset/logo-ornate-dark.svg" media="(prefers-color-scheme: dark)">
       <source srcset="packages/console/app/src/asset/logo-ornate-light.svg" media="(prefers-color-scheme: light)">
-      <img src="packages/console/app/src/asset/logo-ornate-light.svg" alt="OpenCode logo">
+      <img src="https://github.com/user-attachments/assets/de72c57a-8357-4841-aecb-fc4cc1c4b5a4" alt="ResearchCode logo">
+
     </picture>
   </a>
 </p>

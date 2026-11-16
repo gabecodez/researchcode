@@ -7,6 +7,5 @@
 </p>
 <p align="center">An OpenCode fork.</p>
 
-<p align="center">ResearchCode is an ongoing research project utilizing OpenCode's AI harness technology to lower technical barriers to using AI agents for researchers. The project is being developed by Gabriel Sullivan, an undergraduate at Kutztown University. The project is being overseen by Professor Reiley Walther.</p>
-
-Thia is not built by the OpenCode team and is not affiliated with them in any way.
+<p>ResearchCode is an ongoing research project utilizing OpenCode's AI harness technology to lower technical barriers to using AI agents for researchers. The project is being developed by Gabriel Sullivan, an undergraduate at Kutztown University. The project is being overseen by Professor Reiley Walther.</p>
+<p>This is not built by the OpenCode team and is not affiliated with them in any way.</p>
